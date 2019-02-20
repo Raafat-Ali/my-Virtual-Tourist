@@ -1,0 +1,6 @@
+framework module Pods_my_Virtual_Tourist {
+  umbrella header "Pods-my Virtual Tourist-umbrella.h"
+
+  export *
+  module * { export * }
+}
